@@ -1,0 +1,1 @@
+require("./secretDiary.spec.js");  
